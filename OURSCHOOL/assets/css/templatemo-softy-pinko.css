@@ -865,10 +865,7 @@ parallax & home seperator
   top: -20%;
   left: -20%;
 }
-.coursee{
-  text-align: center;
-  align-items: center;
-}
+
 .mini .mini-content {
   position: relative;
   z-index: 3;
